@@ -2,7 +2,7 @@
 
 ## Description
 
-This app retrieves cryptocurrency prices for the top 100 cryptocurrency from CoinMarketCap.com.  The front end was built using Streamlit.  The original code was created using the Beautiful Soup python library to scrape data from CoinMarketCap.  The code used a defined function called load data() to extract the data and build the list of columns which would later be displayed on our dashboard.  Due to site restrictions, scraping is no longer allowed so I modified the original code and function to connect to the Coinmarket Cap API to extract the data needed.    
+This app retrieves cryptocurrency prices from CoinMarketCap.com for the top 100 coins.  The front end was built using Streamlit.  The original code used the Beautiful Soup python library to extract data from CoinMarketCap.  The code used a defined function called load data() to extract the data and build the list of columns which would later be displayed on the dashboard.  Due to site restrictions, scraping is no longer allowed so I modified the original code to connect to the Coinmarket Cap API to extract the data needed.    
 
 ## Dashboard Functionalities
 - Hidden sidebar with a dropdown that lets the user select from 3 currencies to start with USD, BTC or ETH.
