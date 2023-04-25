@@ -1,6 +1,6 @@
 # Crypto Currency Web Application
 
-### Description
+## Description
 
 This app retrieves cryptocurrency prices for the top 100 cryptocurrency from CoinMarketCap.com.  The front end was built using Streamlit.  The original code was created using the Beautiful Soup python library to scrape data from CoinMarketCap.  The code used a defined function called load data() to extract the data and build the list of columns which would later be displayed on our dashboard.  Due to site restrictions, scraping is no longer allowed so I modified the original code and function to connect to the Coinmarket Cap API to extract the data needed.    
 
