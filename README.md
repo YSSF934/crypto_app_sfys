@@ -13,7 +13,7 @@ This app retrieves cryptocurrency prices for the top 100 cryptocurrency from Coi
 - The tables expand when you click on them to show all the coins listed and all of the different time frames
 
 ### Sneak Peak
-jpeg
+<img src=""C:\Users\Yaron\OneDrive\Desktop\CryptoAPI\crypapp1.png"" width="70%" />    <img src=""C:\Users\Yaron\OneDrive\Desktop\CryptoAPI\crypapp2.png"" width="70%" />
 
 ### Credits
 The Data Proffessor/ Streamlit.io
