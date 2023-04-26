@@ -13,7 +13,7 @@ This app retrieves cryptocurrency prices from CoinMarketCap.com for the top 100 
 - The tables expand when you click on them to show all the coins listed and all of the different time frames
 
 ### Sneak Peak
-<img src="crypapp1.png" width="70%" />                    <img src="crypapp2.png" width="70%" />
+<img src="images/crypapp1.png" width="70%" />                    <img src="images/crypapp2.png" width="70%" />
 
 ### Credits
 The Data Proffessor/ Streamlit.io
